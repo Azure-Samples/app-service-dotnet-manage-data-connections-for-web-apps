@@ -4,7 +4,7 @@ platforms: dotnet
 author: jianghaolu
 ---
 
-# Getting started on managing data connections (such as SQL Database and Redis Cache) for Web Apps in C# #
+# Getting started on managing data connections (such as SQL Database and Redis Cache) for Web Apps in C
 
           Azure App Service basic sample for managing web apps.
            - Create a SQL database in a new SQL server
@@ -13,8 +13,7 @@ author: jianghaolu
            - Update the SQL server's firewall rules to allow the web app to access
            - Clean up
 
-
-## Running this Sample ##
+## Running this Sample
 
 To run this sample:
 
@@ -28,9 +27,9 @@ Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an aut
 
     dotnet run
 
-## More information ##
+## More information
 
-[Azure Management Libraries for C#](https://github.com/Azure/azure-sdk-for-net/tree/Fluent)
+[Azure Management Libraries for C#](https://github.com/Azure/azure-libraries-for-net)
 [Azure .Net Developer Center](https://azure.microsoft.com/en-us/develop/net/)
 If you don't have a Microsoft Azure subscription you can get a FREE trial account [here](http://go.microsoft.com/fwlink/?LinkId=330212)
 
